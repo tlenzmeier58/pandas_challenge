@@ -1,7 +1,7 @@
 ## Homework No. 4
 
 ### District Summary & School Summary
->> ####      Total Schools, students, & budget by school and budget per student
+#### >>     Total Schools, students, & budget by school and budget per student
 ####      Average math and reading scores, along with pass percentages
 
 ### Highest Performing Schools (by % Overall Passing)
